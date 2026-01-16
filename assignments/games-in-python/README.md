@@ -3,7 +3,7 @@
 
 ## 🎯 Objective
 
-Practice fundamental Python programming concepts by creating interactive games that use loops, conditionals, user input, and random selection.
+Practice fundamental Python programming concepts by creating interactive games that use loops, conditionals, user input and random selection.
 
 ## 📝 Tasks
 
